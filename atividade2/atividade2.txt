@@ -1,0 +1,1 @@
+"Testes de software mostram a presença de bugs, mas não a sua ausência." - Edsger W. Dijkstra 
