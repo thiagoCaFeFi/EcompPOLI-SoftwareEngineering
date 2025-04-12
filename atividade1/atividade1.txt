@@ -1,0 +1,1 @@
+"O que se espera de um programador é que ele consiga resolver problemas, não que ele saiba tudo sobre programação." - Brian Kernighan 
